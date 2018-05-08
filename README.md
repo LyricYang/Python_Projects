@@ -8,7 +8,7 @@
 python ascii.py [图片名.jpg]
 ```
 
-<div align="center"> <img src="https://github.com/LyricYang/Python_Projects/blob/master/CharacterPicture/CP.jpg"/> </div><br>
+<div align="center"> <img src="https://github.com/LyricYang/Python_Projects/blob/master/CharacterPicture/CP.jpg" width="500"/> </div><br>
 
 ## [Game2048](https://github.com/LyricYang/Python_Projects/tree/master/Game2048)
 
@@ -18,7 +18,7 @@ python ascii.py [图片名.jpg]
 python 2048.py
 ```
 
-<div align="center"> <img src="https://github.com/LyricYang/Python_Projects/blob/master/Game2048/2048.jpg"/> </div><br>
+<div align="center"> <img src="https://github.com/LyricYang/Python_Projects/blob/master/Game2048/2048.jpg" /> </div><br>
 
 ## [SolarToLunar](https://github.com/LyricYang/Python_Projects/tree/master/SolarToLunar)
 

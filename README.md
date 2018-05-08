@@ -20,6 +20,10 @@ python 2048.py
 
 <div align="center"> <img src="https://github.com/LyricYang/Python_Projects/blob/master/Game2048/2048.jpg"/> </div><br>
 
+## [SolarToLunar](https://github.com/LyricYang/Python_Projects/tree/master/SolarToLunar)
+
+- 公历转农历的小程序
+
 ## [MillionHeros](https://github.com/LyricYang/Python_Projects/tree/master/MillionHeros)
 
 - 百万英雄辅助答题软件

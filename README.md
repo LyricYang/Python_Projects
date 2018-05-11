@@ -43,3 +43,14 @@ python 2048.py
 ## [Wechat_jump_game](https://github.com/LyricYang/Python_Projects/tree/master/Wechat_jump_game)
 
 - 跳一跳辅助软件
+
+## [alien_invasion](https://github.com/LyricYang/Python_Projects/tree/master/alien_invasion)
+
+- 射击游戏--alien invasion，需要在python3的环境下运行，要安装Pygame依赖包
+- Usage:
+```python
+python3 alien_invasion.py
+```
+左右可以移动飞船，空格键(Space)可以射击子弹
+
+<div align="center"> <img src="https://github.com/LyricYang/Python_Projects/blob/master/alien_invasion/images/alien_invasion_sample.png" width="500"/> </div><br>
